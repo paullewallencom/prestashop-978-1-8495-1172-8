@@ -1,0 +1,1 @@
+{if $page_name != 'index'}<!-- Left --> <div id="left_column" class="column"> {$HOOK_LEFT_COLUMN} </div>{/if }

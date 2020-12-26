@@ -1,0 +1,14 @@
+/* line 838 of global.css in default block style - used in chapter 4 */
+div.block h4 {
+	text-transform: uppercase;
+	font-family: Helvetica, Sans-Serif;
+	font-weight: bold;
+	font-size: 1.2em;
+	padding-left: 0.5em;
+	border-bottom: 1px solid #595A5E;
+	padding-top: 2px;
+	line-height: 1.3em;
+	color: #374853;
+	height: 19px;
+	background: transparent url('../img/block_header.gif') no-repeat top left
+}

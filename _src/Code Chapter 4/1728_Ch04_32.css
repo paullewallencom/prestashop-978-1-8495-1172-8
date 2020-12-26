@@ -1,0 +1,7 @@
+/*block editorial at line 1134 of global.css */
+
+.editorial_block h2 {
+	background: none;
+	padding: 0;
+	margin-bottom: 1em
+}

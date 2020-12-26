@@ -1,0 +1,7 @@
+/* code used in chapter 4 showing the unmodified syntax based on line 997 of global.css  */
+
+
+#center_column div.products_block h5 a {
+	color: #374853;
+	font-size: 1.1em
+}

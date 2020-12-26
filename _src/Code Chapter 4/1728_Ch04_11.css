@@ -1,0 +1,8 @@
+/* Header - extract from global.css in line 200 used in chapter 4*/
+
+#header_right {
+	float: left;
+	margin-bottom: 15px;
+	width: 73%;
+	text-align: right
+}

@@ -1,0 +1,16 @@
+/* block exclusive - this is used in chapter 4- may change the line 13 to a different color*/
+#left_column div.exclusive, #right_column div.exclusive {
+	background: transparent url('../img/block_exclusive_footer.jpg') no-repeat bottom left
+}
+div.exclusive h4 {
+	background: transparent url('../img/block_header_exclusive.gif') no-repeat top left;
+	color: white
+}
+div.exclusive h4 a { color: white }
+div.exclusive li { margin-top: 0 }
+div.exclusive, div.exclusive a { color: white }
+div.exclusive .block_content {
+	background: #bdc2c9 url('../img/block_exclusive_bg.jpg') repeat-x bottom left;
+	border-left: 1px solid #595a5e;
+	border-right: 1px solid #595a5e
+}

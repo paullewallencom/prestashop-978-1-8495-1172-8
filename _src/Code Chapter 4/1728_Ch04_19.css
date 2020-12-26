@@ -1,0 +1,9 @@
+/* line 224 in global.css ..used in chapter 4 */
+
+/* global RTE fields */
+div.rte,
+ .mceContentBody {
+	text-align: left;
+	background: white;
+	color: black
+}

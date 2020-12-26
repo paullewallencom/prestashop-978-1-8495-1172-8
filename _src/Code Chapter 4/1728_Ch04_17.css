@@ -1,0 +1,13 @@
+/* extract from global.css line 790 for chapter 4 */
+
+/*block top user information */
+
+#header_user p { color: red }
+#header_user span { font-weight: bold }
+#header_user ul { margin-top: 0.3em }
+#header_user li {
+	float: right;
+	line-height: 2em;
+	margin-left: 0.5em;
+	white-space: nowrap
+}

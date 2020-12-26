@@ -1,0 +1,16 @@
+/* block exclusive - as mentioned in Chapter 6 , changes are made in line 3,9,11 and line 13*/
+#left_column div.exclusive, #right_column div.exclusive {
+  background: #ffcccc 
+}
+div.exclusive h4 {
+  background: transparent url('../img/block_header_exclusive.gif') no-repeat top left;
+  color: white
+}
+div.exclusive h4 a { color:#595a5e }
+div.exclusive li { margin-top: 0 }
+div.exclusive, div.exclusive a { color: #595a5e }
+div.exclusive .block_content {
+  background: #ffcccc;
+  border-left: 1px solid #595a5e;
+  border-right: 1px solid #595a5e
+}

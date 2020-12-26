@@ -1,0 +1,22 @@
+/* global layout - used in chapter 4 */
+
+#left_column, #center_column, #right_column { float: left }
+#left_column {
+	clear: left;
+	width: 191px;
+	margin-right: 21px;
+	overflow: hidden;
+	color: purple 
+}
+#center_column {
+	width: 556px;
+	margin: 0 0 30px 0;
+	overflow: hidden;
+	color: red
+}
+#right_column {
+	width: 191px;
+	margin-left: 21px;
+	overflow: hidden;
+	color: green
+}

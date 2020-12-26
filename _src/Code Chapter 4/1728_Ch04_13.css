@@ -1,0 +1,39 @@
+/* from global layout  - this is used on chapter 4 */
+#page {
+	width: 980px;
+	margin: 0 auto 2px auto;
+	text-align: left;
+        background: #C6F66F
+}
+h1#logo {
+	float: left;
+	width: 27%;
+	margin-top: 0.5em
+}
+#header_right {
+	float: left;
+	margin-bottom: 15px;
+	width: 73%;
+	text-align: right;
+        background: #C6F66F
+}
+#left_column, #center_column, #right_column { float: left }
+#left_column {
+	clear: left;
+	width: 191px;
+	margin-right: 21px;
+	overflow: hidden;
+        background:#B4F63D
+}
+#center_column {
+	width: 556px;
+	margin: 0 0 30px 0;
+	overflow: hidden;
+        background:#8EEB00
+}
+#right_column {
+	width: 191px;
+	margin-left: 21px;
+	overflow: hidden;
+        background: #82B22C
+}

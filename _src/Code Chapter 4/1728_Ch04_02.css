@@ -1,0 +1,44 @@
+/* Default block style- this is used in the chapter 4 where line 34 is changed */
+div.block {
+	margin-bottom: 1em;
+	width: 191px
+}
+#left_column div.block,
+ #right_column div.block {
+	padding-bottom: 5px;
+	background: transparent url('../img/block_footer.gif') no-repeat bottom left
+}
+div.block h4 {
+	text-transform: uppercase;
+	font-family: Helvetica, Sans-Serif;
+	font-weight: bold;
+	font-size: 1.2em;
+	padding-left: 0.5em;
+	border-bottom: 1px solid #595A5E;
+	padding-top: 2px;
+	line-height: 1.3em;
+	color: #374853;
+	height: 19px;
+	background: transparent url('../img/block_header.gif') no-repeat top left
+}
+div.block h4 a { color: #374853 }
+div.block ul { list-style: none }
+div.block ul.tree li { padding-left: 1.2em }
+div.block a:hover { text-decoration: underline }
+#left_column div.block .block_content a.button_large,
+ #right_column div.block .block_content a.button_large { margin: 0 0 0 -3px }
+div.block .block_content {
+	border-left: 1px #d0d3d8;
+	border-right: 1px #d0d3d8;
+	padding: 0 0.7em;
+	background: #f1f2f4 url('../img/block_bg.jpg') repeat-x bottom left;
+	min-height: 16px
+}
+div.block li {
+	padding: 0.2em 0 0.2em 0em;
+	list-style-position: outside
+}
+div.block a {
+	color: #595a5e;
+	text-decoration: none
+}

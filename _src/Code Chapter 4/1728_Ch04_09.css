@@ -1,0 +1,8 @@
+/* block in the center column - extracted from global.css and used in chapter 4 where in line 5 value is changed to "red" */
+#center_column p { margin: 0.5em 0; padding-left: 0.7em }
+#center_column div.block { width: 536px; margin: auto }
+#center_column div.block h4 {
+	background: transparent url('../img/block_header_large.gif') no-repeat top left;
+	height: 17px;
+	color: white
+}

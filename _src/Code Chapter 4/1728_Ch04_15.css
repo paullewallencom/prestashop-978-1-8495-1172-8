@@ -1,0 +1,15 @@
+/* line extract from line 852 of global.css  from default block style section  used in chapter 4 */
+
+div.block h4 a { color: #374853 }
+div.block ul { list-style: none }
+div.block ul.tree li { padding-left: 1.2em }
+div.block a:hover { text-decoration: underline }
+#left_column div.block .block_content a.button_large,
+ #right_column div.block .block_content a.button_large { margin: 0 0 0 -3px }
+div.block .block_content {
+	border-left: 1px #d0d3d8;
+	border-right: 1px #d0d3d8;
+	padding: 0 0.7em;
+	background: #f1f2f4 url('../img/block_bg.jpg') repeat-x bottom left;
+	min-height: 16px
+}

@@ -1,0 +1,23 @@
+/* Special style for block products in center column - used in chapter 4*/
+#center_column .products_block { border: none }
+#center_column .products_block { color: #595a5e }
+#center_column .products_block h4 { line-height: 1.3em }
+#center_column .products_block .block_content {
+	background: #d0d3d8 none;
+	padding: 0
+}
+#center_column .products_block ul li:hover { background-color: #bdc2c9 }
+#center_column .products_block ul li {
+	float: left;
+	background-color: #d0d3d8;
+	margin-top: 0;
+	padding: 0 0 1px;
+	width: 133px;
+	border-right: 1px solid white;
+	border-bottom: 1px solid white
+}
+#center_column .products_block ul .product_accessories_description {
+	margin: 0;
+	padding: 0;
+	height: 280px
+}

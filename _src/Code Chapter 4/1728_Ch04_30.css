@@ -1,0 +1,7 @@
+/* line 819 of global.css used in chapter 4 */
+
+#footer .block_various_links li {
+	display: inline;
+	border-left: 1px solid #888;
+	padding: 0 2px 0 4px
+}

@@ -1,0 +1,7 @@
+/* line 1278 of global. css for the cart block text color change in chapter 4  */
+
+#cart_block li { clear: both }
+#cart_block span.price {
+	color: white;
+	float: right
+}
